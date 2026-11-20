@@ -1,0 +1,65 @@
+{
+  "name": "Your Name",
+  "role": "Full-stack developer and problem solver",
+  "tagline": "I build web apps end to end with the MERN stack and add machine learning where it helps. I also solve competitive programming problems for fun.",
+  "location": "Mathura, India",
+  "email": "abc@gmail.com",
+  "links": {
+    "GitHub": "https://github.com/sample",
+    "LeetCode": "https://leetcode.com/sample",
+    "Codeforces": "https://codeforces.com/sample",
+    "LinkedIn": "",
+    "Resume": ""
+  },
+  "heatCaption": "2200+ GitHub contributions",
+  "stats": [
+    { "value": "9.4", "label": "CPI, B.Tech in Computer Science" },
+    { "value": "1854", "label": "LeetCode contest rating (Knight)" },
+    { "value": "1577", "label": "Codeforces max rating (Specialist)" },
+    { "value": "2200+", "label": "GitHub contributions" }
+  ],
+  "experience": [
+    {
+      "title": "Coding Question Bank",
+      "org": "Infosys Springboard Internship",
+      "date": "Jan 2023 – May 2023",
+      "points": ["Created a hands-on question bank for online coding contests."],
+      "tags": ["Java", "Python", "DSA"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Health Care System",
+      "date": "Aug – Dec 2023",
+      "role": "Data Scientist and Full-Stack Developer · Team of 4",
+      "link": "https://healthcare-sample.demo",
+      "desc": "Predicts diseases from symptoms and lets patients book doctor appointments. A Decision Tree model is trained with scikit-learn and served through Flask.",
+      "tags": ["Node", "Express", "MongoDB", "EJS", "Bootstrap", "Python", "Flask", "React"]
+    },
+    {
+      "name": "Social Media",
+      "date": "Apr – Aug 2023",
+      "role": "Full-Stack Developer · Solo project",
+      "link": "https://socialmedia-sample.demo",
+      "desc": "Users create accounts, post photos, like and comment, and follow other users.",
+      "tags": ["React", "Express", "MySQL"]
+    }
+  ],
+  "skills": {
+    "Full-stack": ["HTML", "CSS", "JavaScript", "Bootstrap", "React", "Node.js", "Express", "Flask", "MongoDB", "MySQL"],
+    "Languages": ["Java", "Python", "C"],
+    "Testing": ["JUnit", "Mockito", "Pytest"],
+    "Core CS": ["SQL", "DSA", "Machine Learning", "Cybersecurity"],
+    "Tools": ["Git", "GitHub", "VS Code", "Nagios", "Jira", "Burp Suite", "ZAP", "Docker"]
+  },
+  "education": [
+    { "title": "B.Tech, Computer Science and Engineering", "org": "XYZ University", "date": "2020 – 2024", "note": "9.4 CPI" },
+    { "title": "Intermediate (CBSE)", "org": "ABC School, Mathura", "date": "2019 – 2020", "note": "95%" },
+    { "title": "High School (CBSE)", "org": "XYZ School, Mathura", "date": "2017 – 2018", "note": "96.5%" }
+  ],
+  "highlights": [
+    { "text": "Gold badges and certifications on HackerRank", "link": "https://hackerrank.com/sample" },
+    { "text": "Infosys Springboard certificates: Java, Python, DSA, HTML, CSS, Agile, Time Management", "link": "" },
+    { "text": "Freelance tutor at Tutor.com with Trivium Eduservices", "link": "" }
+  ]
+}
